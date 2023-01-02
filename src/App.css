@@ -1,0 +1,11 @@
+.card-One {
+  background: linear-gradient(#120e03 80%, #6f6d6a);
+}
+
+.card-Two {
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(15, 15, 15),
+    rgb(110, 110, 107)
+  );
+}
